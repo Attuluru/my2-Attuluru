@@ -6,9 +6,9 @@ Vizag is also called has **city of destiny** .Its consists site seeing places li
 ---
 
 # Fun Activities
-1.Water Rides
-2.Fishing
-3.Bunge Jump
+1. Water Rides
+2. Fishing
+3. Bunge Jump
 
 * Sea Food
 * Coconuts
