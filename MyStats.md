@@ -28,7 +28,7 @@ This is the table
 
 # Code Fencing 
 
-```How to sort Sass properties (for example in alphabetical order)``[QuickLink by stackoverflow](https://www.bing.com/search?q=sorting+function+using+Sass+code&form=QBLH&sp=-1&ghc=1&lq=0&pq=sorting+function+using+sass+code&sc=10-32&qs=n&sk=&cvid=07DEFC965E5248C8A301E1365966849D&ghsh=0&ghacc=0&ghpl=)
+```How to sort Sass properties (for example in alphabetical order)```[QuickLink by stackoverflow](https://www.bing.com/search?q=sorting+function+using+Sass+code&form=QBLH&sp=-1&ghc=1&lq=0&pq=sorting+function+using+sass+code&sc=10-32&qs=n&sk=&cvid=07DEFC965E5248C8A301E1365966849D&ghsh=0&ghacc=0&ghpl=)
 
 ```
 /// Quick sort
