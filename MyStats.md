@@ -1,5 +1,5 @@
 # Akshay Kumar Gupta Attuluru
 Hello, This is Akshay and I am from India.I am intrested in learning new things and exploring new places.I am basically want to see other happy or make other happy.
 
-![My image](C:\Users\s558922\Desktop\webapps-repo\my2-Attuluru\My pic.jpg)
+![My image]https://github.com/Attuluru/my2-Attuluru/blob/main/My%20Pic.jpg?raw=true)
 ![Cat Image](image.png)
