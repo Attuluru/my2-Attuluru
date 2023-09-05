@@ -15,3 +15,4 @@ Vizag is also called has **city of destiny** .Its consists site seeing places li
 * prawns Biryani
 
 
+[Link to my MyStats.md repo](https://github.com/Attuluru/my2-Attuluru/blob/main/MyStats.md)
