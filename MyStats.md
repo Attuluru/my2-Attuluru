@@ -5,7 +5,7 @@ Hello, This is Akshay and I am from India.I am intrested in learning new things 
 
 --- 
 
-#Sports Table 
+# Sports Table 
 Below table describes the sports that i would like to recommend and it conatins the data like Name of the sport and reason why you need to play and average hours you need to spend in the sport per week
 
 This is the table
