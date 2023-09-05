@@ -17,3 +17,10 @@ This is the table
 | Table tennis | To decrease our pressure | 10 |
 | Golf | Its a rich game involing many techniques and ideas | 15 |
 
+---
+
+# Pithy Quotes 
+```A friend is someone who knows all about you and still loves you.```-*Elbert Hubbard*
+
+```Science is magic that works.``` -*Kurt Vonnegut*
+
